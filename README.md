@@ -1,11 +1,11 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=smirn08&color=000000&label=😏 alt=smirn08/> </p>
 
-### Hi there, I'm Maksim 👋 
-<img align="right" alt="GIF" src="https://cdnb.artstation.com/p/assets/images/images/011/722/225/original/bartosz-aziewicz-loader-aziewicz-bartosz-3-gp.gif?1531073801" width="350px" />
+### Hi there, I'm Maksim 👋 <img align="right" alt="GIF" src="https://cdnb.artstation.com/p/assets/images/images/011/722/225/original/bartosz-aziewicz-loader-aziewicz-bartosz-3-gp.gif?1531073801" width="500px" />
+
 ### I'm a dev.-engineer who moved from science!
 
-- 🌱 Growth as Data Engeneer at X5 Retail Group
-- 📡 PhD student (Phys.-Mat. Sciences)
+- 🌱 Growth as **Data Engeneer** at **X5 Retail Group**
+- 📚 PhD student (Phys.-Mat. Sciences)
 - ❤️ BigData and everything related to AI
 - ⚽️ Chelsea Football Club fan
 
